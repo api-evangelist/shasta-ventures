@@ -1,0 +1,77 @@
+aid: shasta-ventures
+name: Shasta Ventures
+description: >-
+  Shasta Ventures is an early-stage venture capital firm founded in 2004 and
+  based in Silicon Valley (Portola Valley / Menlo Park, on and around Sand Hill
+  Road, California). Founded by Rob Coneybeer and Ravi Mohan (with Tod Francis
+  and Jason Pressman among its long-tenured Managing Directors), the firm invests
+  primarily at the Series A stage in United States technology startups, typically
+  leading rounds and taking board seats. Shasta has roughly $1.3B under management
+  across multiple funds (Fund II $250M, Fund III $265M, Fund IV $300M) and a
+  20-year track record. Its thesis centers on enterprise software / SaaS,
+  cybersecurity, developer tools and infrastructure, data intelligence, camera /
+  computer vision, and consumer subscription products, pairing capital with
+  operational support (Shasta Elevate) for technical founders. Notable investments
+  include Anaplan, Zuora, Nest, Nextdoor, Apptio, Eero, Sendbird, Tonal, Lattice,
+  Highspot, SentinelOne and Turo, with 12 unicorns, multiple IPOs and dozens of
+  acquisitions across its history.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://framerusercontent.com/images/ObemCIzud1LKuPA2p3IV0QGOp40.png
+tags:
+  - Venture Capital
+  - Early Stage
+  - Series A
+  - Enterprise Software
+  - SaaS
+  - Cybersecurity
+  - Developer Tools
+  - Infrastructure
+  - Data Intelligence
+  - Silicon Valley
+  - United States
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.shasta.vc/
+  - type: Portfolio
+    url: https://www.shasta.vc/
+  - type: Portfolio
+    url: portfolio/shasta-ventures-portfolio.yml
+  - type: Team
+    url: https://www.shasta.vc/team
+  - type: Team
+    url: team/shasta-ventures-team.yml
+  - type: Contact
+    url: https://www.shasta.vc/contact
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/shasta-ventures
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/shasta-ventures
+  - type: Features
+    data:
+      - 'Stage: Early stage, primarily Series A'
+      - 'Sectors: enterprise software / SaaS, cybersecurity, developer tools & infrastructure, data intelligence, camera/computer vision, consumer subscription'
+      - 'Geography: United States (Silicon Valley)'
+      - 'AUM: ~$1.3B under management (self-reported)'
+      - 'Funds: Fund II $250M, Fund III $265M, Fund IV $300M'
+      - 'Founded: 2004'
+      - 'HQ: Portola Valley / Menlo Park, California'
+      - 'Founders: Rob Coneybeer, Ravi Mohan'
+      - 'Track record: ~227 investments, 12 unicorns, multiple IPOs, dozens of acquisitions'
+    sources:
+      - https://www.shasta.vc/
+      - https://en.wikipedia.org/wiki/Shasta_Ventures
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Shasta Ventures
+    email: info@shasta.vc
+    url: https://www.shasta.vc/

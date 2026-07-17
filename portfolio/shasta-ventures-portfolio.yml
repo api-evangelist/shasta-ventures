@@ -1,0 +1,315 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.shasta.vc/
+summary:
+  portfolio_total: 29
+  in_network: 15
+  api_providers: 8
+  missing: 14
+  stubs_created: 0
+companies:
+- name: Anaplan
+  url: https://www.anaplan.com
+  description: Connected planning and business modeling platform.
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  slug: anaplan
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Zuora
+  url: https://www.zuora.com
+  description: Subscription management and recurring billing platform.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  slug: zuora
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Nest
+  url: https://nest.com
+  description: Connected home devices including smart thermostats and cameras.
+  sector: consumer-hardware
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  slug: nest
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Nextdoor
+  url: https://nextdoor.com
+  description: Neighborhood-focused social network.
+  sector: consumer
+  stage: growth
+  status: ipo
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  slug: nextdoor
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Apptio
+  url: https://www.apptio.com
+  description: Technology business management and cloud cost optimization software.
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  slug: apptio
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Eero
+  url: https://eero.com
+  description: Mesh Wi-Fi home networking systems.
+  sector: consumer-hardware
+  stage: growth
+  status: acquired
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eero
+- name: Mint
+  url: https://mint.intuit.com
+  description: Personal finance management application.
+  sector: fintech
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  slug: intuit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Smule
+  url: https://www.smule.com
+  description: Social music-making and singing mobile apps.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: smule
+- name: ClassDojo
+  url: https://www.classdojo.com
+  description: Communication platform connecting teachers, students and families.
+  sector: edtech
+  stage: growth
+  status: active
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  slug: classdojo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Doctor On Demand
+  url: https://www.doctorondemand.com
+  description: Telehealth video visits with physicians and therapists.
+  sector: healthtech
+  stage: growth
+  status: acquired
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: doctor-on-demand
+- name: Fetch Robotics
+  url: https://fetchrobotics.com
+  description: Autonomous mobile robots for warehouses and logistics.
+  sector: robotics
+  stage: series-b
+  status: acquired
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fetch-robotics
+- name: Accion Systems
+  url: https://www.accion-systems.com
+  description: Ion electrospray propulsion systems for satellites.
+  sector: aerospace
+  stage: series-a
+  status: active
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: accion-systems
+- name: Airware
+  url: https://www.airware.com
+  description: Commercial drone data and analytics software.
+  sector: enterprise-software
+  stage: series-c
+  status: dead
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  slug: airware
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Lithium Technologies
+  url: https://www.khoros.com
+  description: Social customer engagement and community software (now Khoros).
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lithium-technologies
+- name: Stance
+  url: https://www.stance.com
+  description: Premium socks and apparel consumer brand.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stance
+- name: SteelBrick
+  url: https://www.steelbrick.com
+  description: Quote-to-cash and CPQ software for Salesforce.
+  sector: enterprise-software
+  stage: series-b
+  status: acquired
+  source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: steelbrick
+- name: Sendbird
+  url: https://sendbird.com
+  description: Chat, voice and video communications API platform.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.shasta.vc/
+  slug: sendbird
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tonal
+  url: https://www.tonal.com
+  description: Connected strength-training home fitness system.
+  sector: consumer-hardware
+  stage: growth
+  status: active
+  source: https://www.shasta.vc/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tonal
+- name: Lattice
+  url: https://lattice.com
+  description: People management and performance HR software.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://www.shasta.vc/
+  slug: lattice
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Glint
+  url: https://www.glintinc.com
+  description: Employee engagement and people success platform.
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://www.shasta.vc/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: glint
+- name: Highspot
+  url: https://www.highspot.com
+  description: Sales enablement and content management platform.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://www.shasta.vc/
+  slug: highspot
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Turo
+  url: https://turo.com
+  description: Peer-to-peer car sharing marketplace.
+  sector: marketplace
+  stage: growth
+  status: active
+  source: https://www.shasta.vc/
+  slug: turo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: SentinelOne
+  url: https://www.sentinelone.com
+  description: Autonomous endpoint and cloud cybersecurity platform.
+  sector: cybersecurity
+  stage: growth
+  status: ipo
+  source: https://www.shasta.vc/
+  slug: sentinelone
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: TigerConnect
+  url: https://tigerconnect.com
+  description: Clinical communication and collaboration for healthcare.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://www.shasta.vc/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tigerconnect
+- name: Spiceworks
+  url: https://www.spiceworks.com
+  description: IT management software and professional network for SMBs.
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  slug: spiceworks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Leanplum
+  url: https://www.leanplum.com
+  description: Mobile marketing and engagement platform.
+  sector: enterprise-software
+  stage: series-d
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  slug: leanplum
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Entelo
+  url: https://www.entelo.com
+  description: Recruiting automation and talent sourcing software.
+  sector: enterprise-software
+  stage: series-b
+  status: active
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: entelo
+- name: Brandcast
+  url: https://www.brandcast.com
+  description: No-code platform for building branded web experiences.
+  sector: enterprise-software
+  stage: series-b
+  status: active
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brandcast
+- name: VoloMetrix
+  url: https://www.volometrix.com
+  description: People analytics software (became Microsoft Workplace Analytics).
+  sector: enterprise-software
+  stage: series-b
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Shasta_Ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: volometrix
