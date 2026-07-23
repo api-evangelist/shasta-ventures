@@ -3,9 +3,9 @@ method: searched
 source: https://www.shasta.vc/
 summary:
   portfolio_total: 29
-  in_network: 15
+  in_network: 29
   api_providers: 8
-  missing: 14
+  missing: 0
   stubs_created: 0
 companies:
 - name: Anaplan
@@ -40,7 +40,7 @@ companies:
   slug: nest
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
 - name: Nextdoor
   url: https://nextdoor.com
   description: Neighborhood-focused social network.
@@ -70,9 +70,10 @@ companies:
   stage: growth
   status: acquired
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eero
+  slug: eero
+  matched_by: domain
 - name: Mint
   url: https://mint.intuit.com
   description: Personal finance management application.
@@ -91,9 +92,10 @@ companies:
   stage: growth
   status: active
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: smule
+  slug: smule
+  matched_by: domain
 - name: ClassDojo
   url: https://www.classdojo.com
   description: Communication platform connecting teachers, students and families.
@@ -112,9 +114,10 @@ companies:
   stage: growth
   status: acquired
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doctor-on-demand
+  slug: doctor-on-demand
+  matched_by: domain
 - name: Fetch Robotics
   url: https://fetchrobotics.com
   description: Autonomous mobile robots for warehouses and logistics.
@@ -122,9 +125,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fetch-robotics
+  slug: fetch-robotics
+  matched_by: domain
 - name: Accion Systems
   url: https://www.accion-systems.com
   description: Ion electrospray propulsion systems for satellites.
@@ -132,9 +136,10 @@ companies:
   stage: series-a
   status: active
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: accion-systems
+  slug: accion-systems
+  matched_by: domain
 - name: Airware
   url: https://www.airware.com
   description: Commercial drone data and analytics software.
@@ -153,9 +158,10 @@ companies:
   stage: growth
   status: acquired
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lithium-technologies
+  slug: klout
+  matched_by: domain
 - name: Stance
   url: https://www.stance.com
   description: Premium socks and apparel consumer brand.
@@ -163,9 +169,10 @@ companies:
   stage: growth
   status: active
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stance
+  slug: stance
+  matched_by: domain
 - name: SteelBrick
   url: https://www.steelbrick.com
   description: Quote-to-cash and CPQ software for Salesforce.
@@ -173,9 +180,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://web.archive.org/web/20171111172826/http://www.shastaventures.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: steelbrick
+  slug: steelbrick
+  matched_by: domain
 - name: Sendbird
   url: https://sendbird.com
   description: Chat, voice and video communications API platform.
@@ -194,9 +202,10 @@ companies:
   stage: growth
   status: active
   source: https://www.shasta.vc/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tonal
+  slug: tonal
+  matched_by: domain
 - name: Lattice
   url: https://lattice.com
   description: People management and performance HR software.
@@ -215,9 +224,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.shasta.vc/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: glint
+  slug: glintinc
+  matched_by: domain
 - name: Highspot
   url: https://www.highspot.com
   description: Sales enablement and content management platform.
@@ -258,9 +268,10 @@ companies:
   stage: growth
   status: active
   source: https://www.shasta.vc/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tigerconnect
+  slug: tigerconnect
+  matched_by: domain
 - name: Spiceworks
   url: https://www.spiceworks.com
   description: IT management software and professional network for SMBs.
@@ -290,9 +301,10 @@ companies:
   stage: series-b
   status: active
   source: https://en.wikipedia.org/wiki/Shasta_Ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: entelo
+  slug: entelo
+  matched_by: domain
 - name: Brandcast
   url: https://www.brandcast.com
   description: No-code platform for building branded web experiences.
@@ -300,9 +312,10 @@ companies:
   stage: series-b
   status: active
   source: https://en.wikipedia.org/wiki/Shasta_Ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: brandcast
+  slug: brandcast
+  matched_by: domain
 - name: VoloMetrix
   url: https://www.volometrix.com
   description: People analytics software (became Microsoft Workplace Analytics).
@@ -310,6 +323,7 @@ companies:
   stage: series-b
   status: acquired
   source: https://en.wikipedia.org/wiki/Shasta_Ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: volometrix
+  slug: volometrix
+  matched_by: domain

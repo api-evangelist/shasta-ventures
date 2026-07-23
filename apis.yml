@@ -17,6 +17,17 @@ description: >-
   acquisitions across its history.
 x-type: venture-capital
 x-category: Venture Capital
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://framerusercontent.com/images/ObemCIzud1LKuPA2p3IV0QGOp40.png
 tags:
   - Venture Capital
